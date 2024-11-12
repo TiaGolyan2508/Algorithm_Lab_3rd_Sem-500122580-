@@ -1,3 +1,4 @@
+//Insertion in Binary Search Tree (BST) This experiment implements both iterative and recursive methods for inserting elements in a Binary Search Tree (BST). Comparing these methods helps students understand how recursion depth and stack overhead impact efficiency, especially in large datasets.
 #include<stdio.h>
 #include <stdlib.h>
 #include <time.h>
