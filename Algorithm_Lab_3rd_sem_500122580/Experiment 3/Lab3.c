@@ -1,3 +1,5 @@
+//Strassen’s Method vs. Traditional Matrix Multiplication Matrix multiplication is a fundamental operation in many fields, and this experiment compares Strassen’s optimized method to the traditional approach. This highlights how Strassen’s method reduces time complexity for large matrices, providing students with insights into computational efficiency.
+
 #include<stdio.h>
 #include <stdlib.h>
 #include <time.h>
