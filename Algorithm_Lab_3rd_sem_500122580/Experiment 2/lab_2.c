@@ -1,5 +1,4 @@
-//Merge Sort vs. Quick Sort Here, the divide-and-conquer sorting algorithms—Merge Sort and Quick Sort—are implemented and compared on the same dataset. This experiment enables students to analyze sorting efficiency and understand the practical differences between stable sorting in Merge Sort and in-place partitioning in Quick Sort.
-#include <stdio.h>
+//Merge Sort vs. Quick Sort Here, the divide-and-conquer sorting algorithms—Merge Sort and Quick Sort—are implemented and compared on the same dataset. 
 #include <stdlib.h>
 #include <time.h>
 
